@@ -1,6 +1,6 @@
 ---
-layout: slide , Yogesh Mokal
-title: "Welcome to our second slide!" , "Hello Friends"
+layout: slide 
+title: "Welcome to our second slide!" 
 ---
 Text Changed
 Use the left arrow to go back!
